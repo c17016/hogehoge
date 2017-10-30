@@ -5,8 +5,8 @@
 
 ## ローカルリポジトリ  
   
-* お好み焼きレシピ    　
-	[okonomi.txt](okonomi.txt)  
+* お好み焼きレシピ  
+[okonomi.txt](okonomi.txt)  
   
 
 ### リモートリポジトリ  
