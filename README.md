@@ -1,5 +1,6 @@
 # 初めてのGitHub  
   
+c17016 長嶺由也  
 <https://github.com/c17016/hogehoge>  
   
 
