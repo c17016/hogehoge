@@ -5,11 +5,11 @@
 
 ##　ローカルリポジトリ  
   
-* お好み焼きレシピ　　
-<okonomi.txt>  
+* お好み焼きレシピ  　
+	[okonomi.txt](okonomi.txt)  
   
 
 ###　リモートリポジトリ  
   
-* <README.md>を作ってみる  
+* [README.md](README.md)を作ってみる  
 * マークダウンを覚える  
